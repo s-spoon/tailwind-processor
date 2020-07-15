@@ -1349,9 +1349,9 @@ lodash.camelcase@^4.3.0:
   integrity sha1-soqmKIorn8ZRA1x3EfZathkDMaY=
 
 lodash@^4.17.13:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^3.0.0:
   version "3.0.0"
@@ -2119,10 +2119,10 @@ vite@^0.20.10:
     vue "^3.0.0-beta.14"
     ws "^7.2.3"
 
-vue-router@4.0.0-alpha.12:
-  version "4.0.0-alpha.12"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.0-alpha.12.tgz#cba18f0a7fcb577d97c8cd10072a9927313db510"
-  integrity sha512-TJhbWHPZS1v259PKlZf+ljSob0U2RUii3HXQgrcFXsNmeWuqEYEh6trswHHr4+MQdXxHgonyYK28qhBjNhORkA==
+vue-router@4.0.0-alpha.13:
+  version "4.0.0-alpha.13"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.0-alpha.13.tgz#f406150172f77e2f60f4ff73f644a156df2e0248"
+  integrity sha512-yTcpRjjcelF14BzSX6uFlHZZAxMg30CQv7hoFDWvSWbUudaAaxMW0OkIgd771SXMLLXDbjfRi4Y4WfSAW4UJ/Q==
 
 vue@^3.0.0-beta.14:
   version "3.0.0-beta.14"
